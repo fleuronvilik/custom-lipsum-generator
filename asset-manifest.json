@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custom-lipsum-generator/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/custom-lipsum-generator/static/js/main.e3f5f21a.chunk.js",
+    "main.js.map": "/custom-lipsum-generator/static/js/main.e3f5f21a.chunk.js.map",
+    "runtime-main.js": "/custom-lipsum-generator/static/js/runtime-main.f16c47c4.js",
+    "runtime-main.js.map": "/custom-lipsum-generator/static/js/runtime-main.f16c47c4.js.map",
+    "static/js/2.b1ecee37.chunk.js": "/custom-lipsum-generator/static/js/2.b1ecee37.chunk.js",
+    "static/js/2.b1ecee37.chunk.js.map": "/custom-lipsum-generator/static/js/2.b1ecee37.chunk.js.map",
+    "index.html": "/custom-lipsum-generator/index.html",
+    "precache-manifest.fbaab410aef0c9488e3163d82e1b6cf2.js": "/custom-lipsum-generator/precache-manifest.fbaab410aef0c9488e3163d82e1b6cf2.js",
+    "service-worker.js": "/custom-lipsum-generator/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/custom-lipsum-generator/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.b1ecee37.chunk.js.LICENSE.txt": "/custom-lipsum-generator/static/js/2.b1ecee37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16c47c4.js",
+    "static/js/2.b1ecee37.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.e3f5f21a.chunk.js"
+  ]
+}
